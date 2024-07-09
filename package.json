@@ -1,0 +1,29 @@
+{
+  "name": "js-find-the-odd-int",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Given an array of integers, find the one that appears an odd number of times.",
+  "main": "src/main.js",
+  "scripts": {
+    "dev": "node src/main.js",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Animalfox/JS-Find-the-odd-int.git"
+  },
+  "keywords": [
+    "javascript",
+    "odd"
+  ],
+  "author": "Animalfox",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Animalfox/JS-Find-the-odd-int/issues"
+  },
+  "homepage": "https://github.com/Animalfox/JS-Find-the-odd-int#readme",
+  "devDependencies": {
+    "chai": "^5.1.1",
+    "mocha": "^10.6.0"
+  }
+}
